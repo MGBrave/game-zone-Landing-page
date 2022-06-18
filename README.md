@@ -4,9 +4,9 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-[![Gamer Zone](https://github.com/martageraldo/game-zone-Landing-page/blob/main/game-zone/images/land.png?raw=true)](https://codepen.io/martageraldo/full/abqGbGw)
+[![Gamer Zone](https://github.com/martageraldo/game-zone-Landing-page/blob/main/game-zone/images/land.png?raw=true)](https://codepen.io/martageraldo/full/wvyZPpO)
 
-## [Demo](https://codepen.io/martageraldo/full/abqGbGw)
+## [Demo](https://codepen.io/martageraldo/full/wvyZPpO)
 
 
 ## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
